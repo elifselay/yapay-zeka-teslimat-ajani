@@ -19,8 +19,6 @@ Yapay Zeka dersi dönem projesi · Elif Selay Yener · 2322120080
 | `noktalar.csv` | 15 nokta: ad, enlem, boylam (Google Haritalar) |
 | `yollar.csv` | 24 yol: iki nokta ve km (Google Haritalar araç rotası) |
 | `ornek_yollar.csv` | Ödev belgesindeki Örnekşehir haritası (test için) |
-| `sonuclar/` | Rapordaki haritalar ve grafik |
-| `Rapor_...pdf`, `Sunum_...pdf` | Rapor ve sunum |
 
 ## Çalıştırma
 
